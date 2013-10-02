@@ -1,4 +1,6 @@
-Minecraft-Mod
+Tools Mod
 =============
 
-Some sort of mod
+Adds more tools to Minecraft.
+
+(Does not work as i have not started yet)
