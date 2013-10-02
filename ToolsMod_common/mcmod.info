@@ -1,0 +1,20 @@
+[
+{
+  "modid": "ToolsMod",
+  "name": "Tools Mod",
+  "description": "MOAR TOOLZ",
+  "version": "0.0.1",
+  "url": "https://github.com/PsycoJoker12/Tools-Mod",
+  "updateUrl": "",
+  "authorList": [
+    "PsycoJoker12"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
